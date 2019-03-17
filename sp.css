@@ -1,0 +1,41 @@
+body{
+	background-color: #111;
+}
+#displ
+{
+	background-color: black;
+	border-style: hidden;
+	font-size: 260%; 
+	direction: rtl;
+	padding: 5% 10% 5% 10%; 
+	margin: 3% 1% 2% 1%;
+	border-radius: 9px ;
+	width: 78%;
+	height: 40%;
+	color: white;
+}
+#plate{
+	list-style-type: none;
+
+}
+#plate li span{
+	float:left;
+	font-size: 200%;
+	font-weight: 9;
+	width: 15%;
+	height:15%;
+
+}	
+	
+#plate li button{
+	padding: 4% 5%;
+	float:left;
+	background-color: #222;
+	color: white;
+	border-radius: 50%;
+	border-style: hidden;
+	margin: 2.5% 6%;
+}
+.orange{
+	color: orange;
+}
